@@ -1,0 +1,15 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+beautifulsoup4
+scikit-learn
+nltk
+fastapi
+uvicorn
+python-multipart
+aiohttp
+plotly
+tweepy
+textblob
