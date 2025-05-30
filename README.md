@@ -1,6 +1,8 @@
 # cryptoscam-analyzer
 A powerful Streamlit-based web app that analyzes any cryptocurrency for potential scam indicators. It combines real-time data, sentiment analysis, and visualizations to help users make informed decisions before investing.
+
 feel free to click the link:https://cryptoscam-analyzer.streamlit.app
+
 🔍 Features:
 
 📈 Market Metrics: Volume, liquidity, market cap, and valuation trends
